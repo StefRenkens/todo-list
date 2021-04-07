@@ -1,2 +1,2 @@
-Read Waterloo
-a lot of puzzles
+[books] Read Waterloo
+[chess] a lot of puzzles

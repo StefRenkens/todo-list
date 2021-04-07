@@ -1,6 +1,6 @@
-Read a chapter in "The Meritocracy Trap"
-Welcome Driesmans for silicones in the shower
-Welcome Driesmans for maintenance of central heating
-Lock repair
-Read Beginning Git and GitHub
-Reach 2400
+[books] Read a chapter in "The Meritocracy Trap"
+[house] Welcome Driesmans for silicones in the shower
+[house] Welcome Driesmans for maintenance of central heating
+[house] Lock repair
+[books] Read Beginning Git and GitHub
+[books] Reach 2400
